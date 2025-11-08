@@ -2,7 +2,7 @@
 est une application Android simple, et interactive développée en Kotlin avec Jetpack Compose.
 Elle illustre le cycle amusant de préparation d’une limonade : de la cueillette du citron jusqu’à la dégustation du verre bien frais.
 
- -Fonctionnalités principales
+ *Fonctionnalités principales:
 
  -Écran 1 – Arbre à citrons : touchez l’arbre pour cueillir un citron.
 
